@@ -1,0 +1,14 @@
+<!-- Default screen margins, per the Android Design guidelines. -->
+<!-- Поля экрана по умолчанию в соответствии с рекомендациями Android Design. -->
+<resources>
+    <!-- Горизонтальные поля в Activity. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <!-- Вертикальные поля в Activity. -->
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Вертикальные поля в Nav Header. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <!-- Высота шапки в верхней части гамбургер меню -->
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Поля в FAB. -->
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

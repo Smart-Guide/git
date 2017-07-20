@@ -1,0 +1,47 @@
+<!-- Android Manifest - основные установки приложения. -->
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.github.mishapivo.premiumgittutorial">
+
+    <!-- Настройки --> <!--
+    <application                                                        // Основные настройки приложения
+        android:allowBackup="true"                                                  // Наименование приложения: Ссылка на файл в     @res/string
+        android:icon="@mipmap/ic_launcher"                                          // Иконка приложения: Ссылка на файл в           @res/mipmap
+        android:label="@string/app_name"                                            // Наименование приложения: Ссылка на файл в     @res/string
+        android:roundIcon="@mipmap/ic_launcher_round"                               // Наименование приложения: Ссылка на файл в     @res/string
+        android:supportsRtl="true"                                                  // Наименование приложения: Ссылка на файл в     @res/string
+        android:theme="@style/AppTheme">                                            // Наименование приложения: Ссылка на файл в     @res/string
+        <activity                                                       // Настройки Activity:  Main Activity
+            android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />                // Наименование приложения: Ссылка на файл в     @res/string
+                <category android:name="android.intent.category.LAUNCHER" />        // Наименование приложения: Ссылка на файл в     @res/string
+            </intent-filter>
+        </activity>
+        <activity                                                       // Настройки Activity:  Hamburger Menu
+            android:name=".Nav2Hamburger2Menu"                                      // Наименование приложения: Ссылка на файл в     @res/string
+            android:label="@string/title_activity_nav2_hamburger2_menu"             // Наименование приложения: Ссылка на файл в     @res/string
+            android:theme="@style/AppTheme.NoActionBar"></activity>                 // Наименование приложения: Ссылка на файл в     @res/string
+    </application>
+    --> <!-- Настройки -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Nav2Hamburger2Menu"
+            android:label="@string/title_activity_nav2_hamburger2_menu"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
