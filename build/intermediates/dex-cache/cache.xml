@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_984d0d1b461269fb3913a4ef0443b976658ea1c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\99969bef6ed472ae761fbcc30cd9073397896915\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e6fb383a1cd28e578e0bd5dee21fd7331a50d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_a701ebe8705717532b9fc71d5fc3fcbc7ae4f954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="960df62ee9a326f7e98f9fd5a9b9932aaf02915a">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_76b3e290989332f8bebf217f6d0100f195b86979\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\bf898a5de4007bd691456538470fe08e4ce4c98d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_006613dd9b41a9c3ba5dd1e854a8dfdf3814fe8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\08e69bf2fd996e02d95be301475d25c72463d4c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd7a8bfa9be10e495ea83f09f7e74a15e520e6ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\789b01b2cc0c12c571bdfa326ca2b83567851048\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_393f9e3137e43678323b36a887a7e576694dd298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_7a342e94e4914c5451d5932556ab6e3c96021ef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\52c57dc980e296fe62a99dc8e3e305a828bd5a3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e2d2889605cb630f89b06e99d47b3f0c5234713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\cbaa4cc38327d788279638d1b7387254c275ee68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a109f398981260ee201b208df789792e0937639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\ebb46d4cd3780049d4f6dc36c861a8a4051b5525\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ad1482f29aad1ac946a31c2ed1463da1cb841dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\1c06d3b2b671e0931aff17823e16beb4e3ab9a21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_341de41d30990181cad89381f847b5ea657aefc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\490bbd729d7b35e398066a450d765034692101a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f733889b597896873f6b3588b37b145af0add7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mishapivo\.android\build-cache\5a68d75bf1f79618054796b802f6e714298a5142\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\mishapivo\StudioProjects\premium-git-tutorial\PremiumGitTutorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d92e4d5d31c36fea4b21eb738138c1e09881835d\classes.dex" />
+    </item>
+
+</items>
